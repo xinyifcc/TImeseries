@@ -1,7 +1,7 @@
 # TImeseries
 AR MA ARMA ARIMA  TIMESERIES MODEL https://uqer.io/community/share/57988677228e5ba28e05faff
 参考文献 http://nipy.bic.berkeley.edu/nightly/statsmodels/doc/html/tsa.html
-
+http://www.36dsj.com/archives/44065
 ### 出MA(q)模型的形式： 
 rt=c0+at−θ1at−1−⋯−θqat−q
 c0为一个常数项。这里的at,是AR模型t时刻的扰动或者说新息，则可以发现，该模型，使用了过去q个时期的随机干扰或预测误差来线性表达当前的预测值。
